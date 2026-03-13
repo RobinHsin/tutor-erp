@@ -2,7 +2,8 @@
 return [
     'host' => 'localhost',
     'name' => 'tutoring_erp',
-    'user' => 'root',
-    'pass' => '',
-    'charset' => 'utf8mb4',
+    'user' => 'your_db_user',
+    'pass' => 'your_db_password',
+    'charset' => 'utf8',
 ];
+
